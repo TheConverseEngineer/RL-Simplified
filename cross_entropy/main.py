@@ -24,7 +24,7 @@ PARAMS = Parameters(
     hidden_layer_size=128,
     batch_size=16,
     episode_retention_percentile=70,
-    reward_discount_factor=1,
+    reward_discount_factor=1.0,
     learning_rate=0.01,
 )
 
