@@ -17,6 +17,7 @@ including a plethora of comments and debug statements.
 In the samples folder, a number of custom implementations are included.
 Most of these implementations were tested on CartPole, LunarLander, and Acrobot at the very least.
 ##### Included Implementations:
+- PPO with clipped objective function
 - Actor-Critic
 - REINFORCE
 - DQN
@@ -30,9 +31,6 @@ also provided
 ### Utils
 My first attempt at creating a general-purpose RL library. This module is
 used by many of the algorithms not found in the RLite folder.
-
-### Advanced
-Includes my implementation of the proximal policy optimization for the actor critic method.
 
 ### Policy-Based
 Earlier iterations of my REINFORCE and actor-critic implementations (outdated by the RLite/samples implementation)
