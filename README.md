@@ -6,6 +6,13 @@ production-ready implementation. The intention of this project
 was very much to attempt to implement different RL algorithms from scratch (using only libraries like 
 PyTorch and Gymnasium) and experiment with different methods.
 
+NOTE: This repository is a mirror of the repository hosted on the Georgia Tech Github Enterprise. Since these materials are actively in use for new-member training,
+this repository has been temporarily reverted back to an outdated state. For the up-to-date version, login with your Georgia Tech SSO and access the repository at 
+[github.gatech.edu/vparikh35](https://github.gatech.edu/vparikh35).
+
+Not affiliated with Georgia Tech and interested in these resources? Send me an email at [vrajbparikh@gmail.com](mailto:vrajbparikh@gmail.com) and I'd love
+to connect and send you the most up-to-date version!
+
 # Navigation
 Navigation directories is listed in reverse order of creation, 
 with more recent/complex implementations listed first
